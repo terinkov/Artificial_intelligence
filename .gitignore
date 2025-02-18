@@ -1,0 +1,7 @@
+# Игнорируем все папки
+*/
+
+# Исключаем support_vectors_method из игнорирования
+!support_vectors_method/bugs2.csv
+!support_vectors_method/Export/Svm_linear_method.ipynb
+
